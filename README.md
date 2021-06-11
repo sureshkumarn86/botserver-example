@@ -49,7 +49,7 @@ As you can see in the above example, the AI does not give one definitive intent,
 - run `./mvnw spring-boot:run` in shell.
 - open swagger-ui at `http://localhost:8080/swagger-ui.html`. (sample params: botId `5f74865056d7bb000fcd39ff`, message `Hello`) 
 - alternatively open `http://localhost:8080/api/?botId=5f74865056d7bb000fcd39ff&visitorMessage=Hello` in a client (or browser).
-
+- run jUnit tests using `./mvnw test`.
 
 
 ### Reference Documentation
