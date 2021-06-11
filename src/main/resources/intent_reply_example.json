@@ -1,0 +1,16 @@
+[
+  {
+    "id": "34d7831e137a4016a55f98926800a643",
+    "name": "Greeting",
+    "description": "The visitor says hello.",
+    "reply": "Hello :) How can I help you?",
+    "confidenceThreshold" : 0.75
+  },
+  {
+    "id": "b6ec3deac5f94500aef55d9c410e37f7",
+    "name": "Goodbye",
+    "description": "The visitor says goodbye.",
+    "reply": "Goodbye, have a nice day!",
+    "confidenceThreshold" : 0.75
+  }
+]
